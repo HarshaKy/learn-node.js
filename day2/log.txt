@@ -1,0 +1,1 @@
+installed nodemon to prevent restarting terminal for every change
