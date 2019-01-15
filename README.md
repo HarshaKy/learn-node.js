@@ -5,3 +5,5 @@ day1: install node, create a github repo, require method, require user defined f
 day2: command line arguments, yargs, working with json
 
 day3: working on a note taking app
+
+day4: finished note taking app, few things about arrow functions 
