@@ -1,8 +1,8 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "learn",
-  "main": "add.js",
+  "description": "learning node.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.11",
-    "yargs": "^12.0.5"
+    "yargs": "^4.7.1"
   }
 }
