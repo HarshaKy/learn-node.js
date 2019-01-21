@@ -14,3 +14,5 @@ day5: basics of async programming, callbacks, request method to get google maps 
 day6: working on weather app, callbacks.
 
 day7: using darksky.net to get current temperature and other cool info using latitude and longitude
+
+day8: almost finished weather app. take an address string from user and get location info using geocode api, then use that info to get weather info using darksky.net
