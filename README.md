@@ -1,4 +1,4 @@
-#learning node.js
+learning node.js
 my code from 'The Complete Node.js Developer Course' on Udemy
 
 day 1: install node, create a github repo, require method, require user defined functions
