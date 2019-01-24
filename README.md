@@ -19,3 +19,5 @@ day 7: using darksky.net to get current temperature and other cool info using la
 day 8: almost finished weather app. take an address string from user and get location info using geocode api, then use that info to get weather info using darksky.net
 
 day 9 and 10: finished weather app and starting express
+
+day 11: started off with express. used handlebars, partials, and helper
