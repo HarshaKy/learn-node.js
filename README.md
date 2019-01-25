@@ -21,3 +21,5 @@ day 8: almost finished weather app. take an address string from user and get loc
 day 9 and 10: finished weather app and starting express
 
 day 11: started off with express. used handlebars, partials, and helper
+
+day 12: made a simple web app. deployed it using heroku
