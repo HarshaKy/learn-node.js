@@ -1,0 +1,29 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "testing node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js",
+    "test-new": "nodemon --exec \"npm test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshaKy/node-tests.git"
+  },
+  "author": "Harsha Ky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshaKy/node-tests/issues"
+  },
+  "homepage": "https://github.com/HarshaKy/node-tests#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^5.2.0",
+    "rewire": "^4.0.1",
+    "supertest": "^3.4.2"
+  }
+}
