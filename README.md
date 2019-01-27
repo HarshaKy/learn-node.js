@@ -25,3 +25,5 @@ day 11: started off with express. used handlebars, partials, and helper
 day 12: made a simple web app. deployed it using heroku
 
 day 13: testing node apps using mocha. watching tests
+
+day 14: supertest. supertest and expect with http GET. testing asynchronous programs.
