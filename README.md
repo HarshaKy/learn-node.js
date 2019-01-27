@@ -28,4 +28,4 @@ day 13: testing node apps using mocha. watching tests
 
 day 14: supertest. supertest and expect with http GET. testing asynchronous programs.
 
-day 15: using spies and rewire to test apps
+day 15: using spies and rewire to test apps. Started mongoDB. did CRUD ops
