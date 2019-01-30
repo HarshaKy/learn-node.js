@@ -33,3 +33,5 @@ day 15: using spies and rewire to test apps. Started mongoDB. did CRUD ops
 day 16: using REST API - made a todo app. deployed it using heroku
 
 day 17: made a URL shortener using REST API
+
+day 18: working more on the node REST api. hashing, JWT
