@@ -36,4 +36,4 @@ day 17: made a URL shortener using REST API
 
 day 18: working more on the node REST api. hashing, JWT
 
-day 19: authentication using jwt, making private routes, creating middleware and using them
+day 19: authentication using jwt, making private routes, creating middleware and using them, fixing problem with contributions
