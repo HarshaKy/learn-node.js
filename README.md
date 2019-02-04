@@ -35,3 +35,5 @@ day 16: using REST API - made a todo app. deployed it using heroku
 day 17: made a URL shortener using REST API
 
 day 18: working more on the node REST api. hashing, JWT
+
+day 19: authentication using jwt, making private routes, creating middleware and using them
