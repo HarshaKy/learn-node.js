@@ -37,3 +37,5 @@ day 17: made a URL shortener using REST API
 day 18: working more on the node REST api. hashing, JWT
 
 day 19: authentication using jwt, making private routes, creating middleware and using them, fixing problem with contributions
+
+day x: stopped updating this repo, because i started building apps while learning and it became a drag to commit the same files in this repo. at this point in time, i have made a todo app using REST API, a weather app (2 versions) that tells the weather for a user given location, a chat-room app that lets users join chat-rooms and send messages to each other. finished the course too. won't be updating this repo anymore.
